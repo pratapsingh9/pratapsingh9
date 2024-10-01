@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratap Singh Sisodiya</h1>
-<h3 align="center">A passionate Guy just devlops boring things usesfull for kids;</h3>
+<h3 align="center">just devlops boring things usesfull for kids;</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratapsingh9&label=Profile%20views&color=0e75b6&style=flat" alt="pratapsingh9" /> </p>
 
